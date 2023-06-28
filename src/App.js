@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div>
       
-      <Tooltip text="Thanks for hovering! I'm a tooltip">
+      <Tooltip text="Thanks for hovering ! I'm a tooltip">
         <span className='tooltip'>hover over me!</span>
       </Tooltip>
     </div>
